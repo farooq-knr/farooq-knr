@@ -21,13 +21,29 @@ I'm a results-driven Salesforce Developer with **11+ years of experience** desig
 
 ---
 
-### 🛠️ Skills & Expertise
+🛠️ Skills & Expertise
 
-| Programmatic | Declarative | Integration & Architecture |
-|---|---|---|
-| Lightning Web Components (LWC) | Experience Cloud & LWR Site Build | OAuth 2.0 Web Server Integration |
-| Apex Programming & Triggers | Salesforce Flow Orchestrator | Custom Metadata Types & Schema |
-| Visualforce and Aura Frameworks | Salesforce CMS & Branding Sets | Named Credentials, Platform Events |
+Programmatic
+
+<p>
+  <img src="https://img.shields.io/badge/Lightning%20Web%20Components%20(LWC)-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+  <img src="https://img.shields.io/badge/Apex%20Programming%20%26%20Triggers-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+  <img src="https://img.shields.io/badge/Visualforce%20%26%20Aura%20Frameworks-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+</p>
+Declarative
+
+<p>
+  <img src="https://img.shields.io/badge/Experience%20Cloud%20%26%20LWR%20Site%20Build-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+  <img src="https://img.shields.io/badge/Salesforce%20Flow%20Orchestrator-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+  <img src="https://img.shields.io/badge/Salesforce%20CMS%20%26%20Branding%20Sets-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+</p>
+Integration & Architecture
+
+<p>
+  <img src="https://img.shields.io/badge/OAuth%202.0%20Web%20Server%20Integration-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+  <img src="https://img.shields.io/badge/Custom%20Metadata%20Types%20%26%20Schema-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+  <img src="https://img.shields.io/badge/Named%20Credentials%2C%20Platform%20Events-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Salesforce-PD1-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
