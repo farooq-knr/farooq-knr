@@ -44,6 +44,9 @@ Integration & Architecture
   <img src="https://img.shields.io/badge/Custom%20Metadata%20Types%20%26%20Schema-C0392B?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/Named%20Credentials%2C%20Platform%20Events-706E6B?style=for-the-badge&logo=salesforce&logoColor=white" />
 </p>
+
+Certifications:
+
 <p>
   <img src="https://img.shields.io/badge/Salesforce-PD1-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/Salesforce-PD2-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
