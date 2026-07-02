@@ -2,7 +2,7 @@
 <h3 align="center">Salesforce Consultant & Senior Salesforce Developer | 11+ Years Building Enterprise Salesforce Solutions</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/farooq-ah…" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/farooq-ahmed-mohammad-268a525a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:farooq.knr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Hyderabad,%20India-informational?style=for-the-badge" />
 </p>
@@ -29,5 +29,10 @@ I'm a results-driven Salesforce Developer with **11+ years of experience** desig
 | Apex Programming & Triggers | Salesforce Flow Orchestrator | Custom Metadata Types & Schema |
 | Visualforce and Aura Frameworks | Salesforce CMS & Branding Sets | Named Credentials, Platform Events |
 
-**Certifications:** PD1 · PD2 · Sales Cloud Consultant · Service Cloud Consultant
+<p>
+  <img src="https://img.shields.io/badge/Salesforce-PD1-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-PD2-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-Sales%20Cloud%20Consultant-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-Service%20Cloud%20Consultant-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+</p>
 
