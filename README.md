@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farooq Ahmed Mohammad</h1>
+<h1 align="center">Hi I'm Farooq Ahmed Mohammad</h1>
 <h3 align="center">Salesforce Consultant & Senior Salesforce Developer | 11+ Years Building Enterprise Salesforce Solutions</h3>
 
 <p align="center">
