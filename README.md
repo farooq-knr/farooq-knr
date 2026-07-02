@@ -26,25 +26,24 @@ I'm a results-driven Salesforce Developer with **11+ years of experience** desig
 Programmatic
 
 <p>
-  <img src="https://img.shields.io/badge/Lightning%20Web%20Components%20(LWC)-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
-  <img src="https://img.shields.io/badge/Apex%20Programming%20%26%20Triggers-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
-  <img src="https://img.shields.io/badge/Visualforce%20%26%20Aura%20Frameworks-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+  <img src="https://img.shields.io/badge/Lightning%20Web%20Components%20(LWC)-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apex%20Programming%20%26%20Triggers-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visualforce%20%26%20Aura%20Frameworks-032D60?style=for-the-badge&logo=salesforce&logoColor=white" />
 </p>
 Declarative
 
 <p>
-  <img src="https://img.shields.io/badge/Experience%20Cloud%20%26%20LWR%20Site%20Build-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
-  <img src="https://img.shields.io/badge/Salesforce%20Flow%20Orchestrator-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
-  <img src="https://img.shields.io/badge/Salesforce%20CMS%20%26%20Branding%20Sets-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+  <img src="https://img.shields.io/badge/Experience%20Cloud%20%26%20LWR%20Site%20Build-FF6B35?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce%20Flow%20Orchestrator-2E844A?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce%20CMS%20%26%20Branding%20Sets-9050E9?style=for-the-badge&logo=salesforce&logoColor=white" />
 </p>
 Integration & Architecture
 
 <p>
-  <img src="https://img.shields.io/badge/OAuth%202.0%20Web%20Server%20Integration-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
-  <img src="https://img.shields.io/badge/Custom%20Metadata%20Types%20%26%20Schema-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
-  <img src="https://img.shields.io/badge/Named%20Credentials%2C%20Platform%20Events-05122A?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+  <img src="https://img.shields.io/badge/OAuth%202.0%20Web%20Server%20Integration-E4572E?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Custom%20Metadata%20Types%20%26%20Schema-C0392B?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Named%20Credentials%2C%20Platform%20Events-706E6B?style=for-the-badge&logo=salesforce&logoColor=white" />
 </p>
-
 <p>
   <img src="https://img.shields.io/badge/Salesforce-PD1-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/Salesforce-PD2-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
