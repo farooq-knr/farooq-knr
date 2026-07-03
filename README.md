@@ -1,6 +1,6 @@
 ### 🚀 About Me
 
-I'm a results-driven Salesforce Developer with **11+ years of experience** designing, developing, and implementing scalable Salesforce solutions across **Sales Cloud, Service Cloud, Experience Cloud**, and enterprise integration platforms. I specialize in building multi-system integrations, bidirectional synchronization frameworks, custom community themes, case management solutions, accounting applications, and service management platforms.
+I'm a results-driven Salesforce Developer with **8+ years of experience** designing, developing, and implementing scalable Salesforce solutions across **Sales Cloud, Service Cloud, Experience Cloud**, and enterprise integration platforms. I specialize in building multi-system integrations, bidirectional synchronization frameworks, custom community themes, case management solutions, accounting applications, and service management platforms.
 
 - 🏗️ Currently building enterprise integrations and modernizing legacy Visualforce apps to **LWC**
 - 🎯 On an **architect-track** career path, currently interviewing for Senior/Tech Lead roles
